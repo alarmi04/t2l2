@@ -6,3 +6,4 @@ cat demo.txt | grep -i línia
 mkdir prova , cp demo.txt prova/ , cp demo.txt prova/demo2.txt , grep -ri línia
 grep línia.blanc demo.txt
 grep Línia.Totes demo.txt
+cat demo.txt | grep línia | wc -l
