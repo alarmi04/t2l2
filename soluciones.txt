@@ -2,3 +2,4 @@ mkdir T2L2
 cd T2L2
 nano demo.txt
 cat demo.txt | grep esta
+cat demo.txt | grep -i línia
